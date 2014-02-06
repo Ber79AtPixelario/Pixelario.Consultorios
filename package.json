@@ -1,0 +1,16 @@
+{
+  "name": "Pixelario.Consultorios",
+  "version": "0.0.1",
+  "main": "app.js",
+  "author": {
+    "name": "Pixelario",
+    "email": "contacto@pixelario.com.ar"
+  },
+  "dependencies":{
+	"express": "~3.0.6",
+    "jade": ">=0.0.1",
+    "mongoose": "~3.8.3",
+	"nodemailer": "0.3.20",
+	"connect": ">=1.9.1"
+  }
+}
